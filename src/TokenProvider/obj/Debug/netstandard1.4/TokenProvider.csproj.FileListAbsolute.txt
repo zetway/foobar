@@ -1,0 +1,12 @@
+C:\Users\User\documents\visual studio 2017\Projects\Foobar\TokenProvider\bin\Debug\netstandard1.4\TokenProvider.dll
+C:\Users\User\documents\visual studio 2017\Projects\Foobar\TokenProvider\bin\Debug\netstandard1.4\TokenProvider.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Foobar\TokenProvider\obj\Debug\netstandard1.4\TokenProvider.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Foobar\TokenProvider\obj\Debug\netstandard1.4\TokenProvider.AssemblyInfo.cs
+C:\Users\User\documents\visual studio 2017\Projects\Foobar\TokenProvider\obj\Debug\netstandard1.4\TokenProvider.dll
+C:\Users\User\documents\visual studio 2017\Projects\Foobar\TokenProvider\obj\Debug\netstandard1.4\TokenProvider.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Foobar\src\TokenProvider\bin\Debug\netstandard1.4\TokenProvider.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Foobar\src\TokenProvider\bin\Debug\netstandard1.4\TokenProvider.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Foobar\src\TokenProvider\obj\Debug\netstandard1.4\TokenProvider.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Foobar\src\TokenProvider\obj\Debug\netstandard1.4\TokenProvider.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\Foobar\src\TokenProvider\obj\Debug\netstandard1.4\TokenProvider.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Foobar\src\TokenProvider\obj\Debug\netstandard1.4\TokenProvider.pdb

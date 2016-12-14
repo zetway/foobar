@@ -1,0 +1,8 @@
+C:\Users\User\documents\visual studio 2017\Projects\Foobar\src\Foobar\bin\Debug\netcoreapp1.0\Foobar.dll
+C:\Users\User\documents\visual studio 2017\Projects\Foobar\src\Foobar\bin\Debug\netcoreapp1.0\Foobar.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Foobar\src\Foobar\obj\Debug\netcoreapp1.0\Foobar.AssemblyInfo.cs
+C:\Users\User\documents\visual studio 2017\Projects\Foobar\src\Foobar\obj\Debug\netcoreapp1.0\Foobar.dll
+C:\Users\User\documents\visual studio 2017\Projects\Foobar\src\Foobar\obj\Debug\netcoreapp1.0\Foobar.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Foobar\src\Foobar\bin\Debug\netcoreapp1.0\TokenProvider.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Foobar\src\Foobar\bin\Debug\netcoreapp1.0\TokenProvider.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Foobar\src\Foobar\obj\Debug\netcoreapp1.0\Foobar.csprojResolveAssemblyReference.cache
